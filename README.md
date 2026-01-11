@@ -43,16 +43,7 @@ Original Text → XOR with Key1 → Rotate Left by Key2 → Encrypted Text
 Encrypted Text → Rotate Right by Key2 → XOR with Key1 → Original Text
 ```
 
----
 
-## 📂 Project Structure
-
-```
-Assembly File Encryption & Crypto Coprocessor/
-├── COA_semester_project.asm          # Main MIPS Assembly implementation
-├── Encryptor_processor.circ          # Logisim hardware circuit design
-└── README.md                          # Project documentation (this file)
-```
 
 ---
 
@@ -384,3 +375,4 @@ Educational project - Use for learning purposes.
 ---
 
 **Project Complete!** 🎉
+
